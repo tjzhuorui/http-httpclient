@@ -15,7 +15,7 @@
 		}
    
 ### post
-    		String url = "http://localhost:9876/query";
+    	String url = "http://localhost:9876/query";
 		Map<String, String> paramMap = new HashMap<String, String>();
 		paramMap.put("username", "robin");
 		paramMap.put("password", "handsome");
